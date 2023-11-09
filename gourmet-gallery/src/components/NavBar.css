@@ -97,7 +97,7 @@
 
     .nav-links {
         text-align: center; /* Center align the text */
-        padding: 1.5rem; /* More padding for clickable area */
+        padding: 2rem; /* More padding for clickable area */
         width: auto;
         display: block; /* Block display for full width */
         border-bottom: 1px solid #565656; /* Add a separator */
