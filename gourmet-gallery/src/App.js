@@ -2,6 +2,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import NavBar from './components/NavBar';
+import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
 import RecipesPage from './pages/RecipesPage';
 import BlogPage from './pages/BlogPage';
@@ -23,6 +24,7 @@ function App() {
             {/* Add more routes as needed */}
           </Routes>
         </div>
+        <Footer />
     </Router>
   );
 }

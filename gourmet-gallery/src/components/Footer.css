@@ -1,0 +1,21 @@
+/* src/components/Footer.css */
+.footer {
+    width: 100%;
+    background: #333; /* Or any color you prefer */
+    color: #fff;
+    padding: 20px 0; /* Adjust the padding as needed */
+    text-align: center; /* This centers the text horizontally */
+    position: relative;
+    bottom: 0;
+  }
+  
+  .footer-content {
+    margin: 0 auto;
+    max-width: 1200px; /* Or the max-width of your site's content */
+    padding: 0 20px; /* Padding on the sides */
+  }
+  
+  .footer p {
+    margin: 10px 0; /* Spacing between paragraphs if you have more than one */
+  }
+  
